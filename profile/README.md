@@ -21,6 +21,6 @@ Toda aplicação tem dono, stack, ambiente e custo. O objetivo é enxergar tudo 
 
 ## Stacks
 
-TypeScript · React e Next.js · Node.js · PostgreSQL · Docker · GitHub Actions · Cloudflare
+TypeScript · React e Next.js · Node.js e Fastify · PostgreSQL · Docker · Vitest e Playwright
 
-Catálogo e observação: Backstage e Umami.
+Catálogo e observação *(planejado)*: Backstage e Umami.
